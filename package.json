@@ -1,0 +1,23 @@
+{
+  "name": "markdown2pdf",
+  "version": "1.0.0",
+  "description": "convert .md files to .pdf",
+  "main": "m2p.js",
+  "dependencies": {
+    "markdown-pdf": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantheletsplayman/m2p.git"
+  },
+  "author": "daniel zuerrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantheletsplayman/m2p/issues"
+  },
+  "homepage": "https://github.com/dantheletsplayman/m2p#readme"
+}
