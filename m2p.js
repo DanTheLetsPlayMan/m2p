@@ -2,7 +2,8 @@ var markdownpdf = require("markdown-pdf"),
     fs = require("fs");
 
 var options = {
-    cssPath: 'C:\\nodeApps\\m2p\\markdown.css'
+    paperFormat: 'A4',
+    cssPath: 'C:\\nodeApps\\m2p\\swiss.css'
 };
 
 if (process.argv[2]) {
